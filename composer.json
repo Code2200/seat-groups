@@ -4,7 +4,7 @@
     "type": "seat-plugin",
     "require": {
         "php": ">=7.1",
-        "laravel/framework": "5.5.*",
+        "laravel/framework": "5.8.*",
         "eveseat/web": "~3.0.15"
     },
     "require-dev": {
