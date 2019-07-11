@@ -25,7 +25,7 @@
             "email": "felix.a.huber@gmx.net"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
